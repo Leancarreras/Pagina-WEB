@@ -1,0 +1,19 @@
+body {background: yellow;} 
+
+P {font-size: 30px;color: blue;}
+
+li {list-style: none; 
+	margin-right: 25px;
+    margin-top: 20px;
+
+
+
+    } 
+
+.primero {color: blue;}
+
+.segundo {color: blue;}
+
+.menu {display: flex; justify-content: space-between;}
+
+.lista {display: flex;}
