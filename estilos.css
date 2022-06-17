@@ -1,10 +1,10 @@
 body { 
-font-family: "Poppins";
+font-family: "poppins";
 margin: 0;
 padding: 0;
 } 
 
-P {font-size: 30px;color: darkblue;}
+P {font-size: 30px;color: dark;}
 
 li {list-style: none; 
 	margin-right: 25px;
@@ -14,9 +14,9 @@ li {list-style: none;
 
     } 
 
-.primero {color: darkblue;}
+.primero {color: dark;}
 
-.segundo {color: darkblue;}
+.segundo {color: dark;}
 
 .menu {display: flex; justify-content: space-between;}
 
@@ -27,16 +27,16 @@ margin-top: 100px;
 }
 
 h1 {font-size: 40px;
-margin: 0 px; color :#E7C000; }
-h2 {font-size: 25px; color: #E7C000;}
-a {font-size: 14px; 
+margin: 0 px; color :#000000; }
+h2 {font-size: 25px; color: #000000;}
+a {font-size: 16px; 
     text-decoration: none; 
-    color: white;
-    background: #3390FF;
+    color: BLACK;
+    background: #FFA600;
     padding: 20px 30px 20px 30px; 
   }
-header {background: url(Banner Youtube.png);
-height: 10vh;
+header {background: url(fondo.png);
+height: 100vh;
 background-size: cover;}
 
 .contenedor {max-width: 1280px;
